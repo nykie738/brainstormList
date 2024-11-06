@@ -6,13 +6,17 @@ A simplified version of something like a Shazam demo <br>
 Detection system utilizing camera alerting if the air purifier needs to be cleaned <br>
 C++ program creating standings graph from baseball match results <br>
 A python program analyzing the tidiness of a desk depending on object presence and more <br>
+Numerical investigation of what I am doing wrong with my baseball catches <br>
+Making a github website??? <br>
 
 
 ## Might implement (not code)
 Making a baseball grove from scratch <br>
 Making a stamp or some tool using a 3D printer <br>
+Making a camera stand for the potential "Might implement (code)"s <br>
 
 ## Some game ideas?
 Game utilizing sound inputs to solve in-game puzzles <br>
 Game with gimmicks related to time (e.g. fast-forwarding and rewinding time) <br>
 Exercising game taking sounds and physical inputs <br>
+Game with an alternating playstyle based off the in-game hourglass <br>
