@@ -7,6 +7,7 @@ Detection system utilizing camera alerting if the air purifier needs to be clean
 C++ program creating standings graph from baseball match results <br>
 A python program analyzing the tidiness of a desk depending on object presence and more <br>
 Numerical investigation of what I am doing wrong with my baseball catches <br>
+A music tuner? <br>
 Making a github website??? <br>
 
 
