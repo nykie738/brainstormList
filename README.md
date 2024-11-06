@@ -15,3 +15,4 @@ Making a stamp or some tool using a 3D printer <br>
 ## Some game ideas?
 Game utilizing sound inputs to solve in-game puzzles <br>
 Game with gimmicks related to time (e.g. fast-forwarding and rewinding time) <br>
+Exercising game taking sounds and physical inputs <br>
