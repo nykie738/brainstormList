@@ -14,6 +14,7 @@ Making a github website??? <br>
 Making a baseball grove from scratch <br>
 Making a stamp or some tool using a 3D printer <br>
 Making a camera stand for the potential "Might implement (code)"s <br>
+Make a device with 2 buttons (connect by usb or wireless to pc) <br>
 
 ## Some game ideas?
 Game utilizing sound inputs to solve in-game puzzles <br>
