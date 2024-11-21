@@ -12,6 +12,7 @@ Detection model replacing the faces in a picture with emojis? <br>
 A music tuner? <br>
 Making a discord bot <br>
 Making a github website??? <br>
+Search engine type recommender of existing games or products depending on personal interest (use of AI for categorization) <br>
 
 ## Might implement (not code)
 Making a baseball grove from scratch <br>
